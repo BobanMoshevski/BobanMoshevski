@@ -1,10 +1,22 @@
 <h1>Hi, I'm Boban</h1>
   
-<h2>Fornt-End Developer</h2>
-  
-<h3>Front-End Projects:</h3>
+<h3>Projects:</h3>
 
 <ul>
+<li>React js</li>
+  <ul>
+    <li>
+      <a href="https://github.com/BobanMoshevski/eat-and-split-the-bill" target="_blank">Eat and split the bill</a>
+     </li>
+   </ul>
+  
+  <li>React js</li>
+  <ul>
+    <li>
+      <a href="https://github.com/BobanMoshevski/travel-list" target="_blank">Travel List</a>
+     </li>
+   </ul>
+  
   <li>React js (Material Ui, React router)</li>
    <ul>
     <li>
@@ -34,12 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobanmoshevski&theme=dark&show_icons=true&locale=en&layout=compact" alt="bobanmoshevski" />
 </p>
 
-
-<h3>Certifications:</h3>
-<ul>
-  <li><a href="" target="_blank">Frontend Academy @ Creative Hub</a></li>
-  <li><a href="https://drive.google.com/file/d/1q2YeYS53FqVRb4Yn6sf8NvYkybE6O7lc/view" target="_blank">Java fundamentals coruse</a></li>
-</ul>
 
 <h3>Email:</h3>
 
