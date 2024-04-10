@@ -23,6 +23,13 @@
       <a href="https://github.com/BobanMoshevski/Marketplace-application" target="_blank">Marketplace application</a>
      </li>
    </ul>
+
+   <li>HTML, CSS, Bootstrap 5, JavaScript, jQuery</li>
+   <ul>
+    <li>
+      <a href="https://github.com/BobanMoshevski/movies-watch-list" target="_blank">Movies Watch List</a>
+     </li>
+   </ul>
   
    <li>HTML, CSS, Bootstrap, JavaScript</li>
    <ul>
